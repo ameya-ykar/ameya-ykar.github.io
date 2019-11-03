@@ -1,19 +1,18 @@
 # Site settings
-title: Somang (So) Han
-general_email: somang1418@gmail.com
+title: Ameya Waikar
+general_email: waika004@umn.edu
 # academic_email: somang1418@gmail.com
 
 description: > # this means to ignore newlines until "baseurl:"
-  Site copyright: @somang1418 
+  Site copyright: @ameya-ykar 
 #
 # baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 
 url: "https://somang1418.github.io" # the base hostname & protocol for your site
 
 
-github_username: somang1418
-linkedin_username: so-mang-han
-instagram_username: so_is_simple
+github_username: ameya-ykar
+linkedin_username: Ameya Waikar
 
 # feel free to add other links here; you will have to add the SVG icon in _includes/footer.html
 
@@ -75,10 +74,8 @@ footer:
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/so-mang-han/"
+      url: "https://www.linkedin.com/in/ameya-waikar-282a8690/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/somang1418"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/so_is_simple/"
+      url: "https://github.com/ameya-ykar"
+
